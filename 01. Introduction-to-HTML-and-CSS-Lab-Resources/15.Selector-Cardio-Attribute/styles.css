@@ -9,3 +9,8 @@ h1 {
 #second {
     font-style: italic;
 }
+
+/* attribute selectors */
+[class] {
+    color: red;
+}
